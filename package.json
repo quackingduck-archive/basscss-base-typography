@@ -1,7 +1,7 @@
 {
   "name": "basscss-base-typography",
   "version": "0.0.1",
-  "description": "Base typography styles for BASSCSS",
+  "description": "Base typography styles for Basscss",
   "repository": {
     "type": "git",
     "url": "https://github.com/jxnblk/basscss-base-typography.git"
@@ -9,9 +9,13 @@
   "keywords": [
     "CSS",
     "OOCSS",
-    "BASSCSS",
+    "Basscss",
     "Rework"
   ],
   "author": "Brent Jackson",
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jxnblk/basscss-base-typography/issues"
+  },
+  "homepage": "https://github.com/jxnblk/basscss-base-typography"
 }
