@@ -1,8 +1,6 @@
 # Basscss Base Typography
 
-<p class="hide">Base typography styles module for Basscss</p>
-
-<a href="http://basscss.com" class="hide">basscss.com</a>
+Base typography styles module for Basscss http://basscss.com
 
 ## Base type scale
 Typographic elements are normalized to a simple type scale that works well across devices. Default top and bottom margins are set for commonly-used typographic elements.
